@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VRM_PCS_SERVICE", "VRM_PCS_SERVICE.csproj", "{6EE10588-52F3-4AB9-A2EC-50E362AB84E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE10588-52F3-4AB9-A2EC-50E362AB84E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE10588-52F3-4AB9-A2EC-50E362AB84E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE10588-52F3-4AB9-A2EC-50E362AB84E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE10588-52F3-4AB9-A2EC-50E362AB84E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB9FDBF-D6E7-4F7E-A401-443A1B2547FF}
+	EndGlobalSection
+EndGlobal
